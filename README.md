@@ -8,7 +8,7 @@
 ### Also I am:
 - :round_pushpin: currently working on [Nearby Project](https://github.com/PrincePepper/MestoRidom) for indoor navigation 
 - :man_student: studying at [National Research ITMO University](https://en.itmo.ru/en/)
-- :city_sunset: Saint Petersburg :airplane: Vladivostok
+- :city_sunset: living in Saint Petersburg / Vladivostok
 - :books: currently learning kotlin and internals of android framework
 - :handshake: looking to collaborate on some cool project
 - :sparkling_heart: fascinated by opensource

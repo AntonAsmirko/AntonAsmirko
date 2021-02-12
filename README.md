@@ -13,5 +13,4 @@
 - :handshake: looking to collaborate on some cool project
 - :sparkling_heart: fascinated by opensource
 
-# Contact me:
-- 
+# Contact me: ![telegram contact](https://github.com/AntonAsmirko/AntonAsmirko/blob/main/telegram-contact.jpg) [Telegram](https://t.me/InFameBoy)

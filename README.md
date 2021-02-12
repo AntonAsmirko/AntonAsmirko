@@ -13,4 +13,4 @@
 - :handshake: looking to collaborate on some cool project
 - :sparkling_heart: fascinated by opensource
 
-# Contact me: <p align="left"> <a href="https://t.me/InFameBoy" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p> [Telegram](https://t.me/InFameBoy)
+# Contact me: <p align="left"> <a href="https://t.me/InFameBoy" target="_blank"> <img src="https://github.com/AntonAsmirko/AntonAsmirko/blob/main/telegram-contact.jpg" alt="android" width="40" height="40"/> </a> </p> [Telegram](https://t.me/InFameBoy)

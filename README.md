@@ -15,4 +15,4 @@
 
 ### Contact me:  
 
-<a href="https://t.me/InFameBoy" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="20" height="20"/> </a> [Telegram](https://t.me/InFameBoy)
+- <a href="https://t.me/InFameBoy" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="20" height="20"/> </a> [Telegram](https://t.me/InFameBoy)

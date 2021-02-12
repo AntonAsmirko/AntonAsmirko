@@ -12,3 +12,6 @@
 - :books: currently learning kotlin and internals of android framework
 - :handshake: looking to collaborate on some cool project
 - :sparkling_heart: fascinated by opensource
+
+# Contact me:
+- 

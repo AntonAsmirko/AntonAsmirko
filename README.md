@@ -13,6 +13,8 @@
 - :handshake: looking to collaborate on some cool project
 - :sparkling_heart: fascinated by opensource
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antonasmirko&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact me:  
 
 - <a href="https://t.me/InFameBoy" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="20" height="20"/> </a> [Telegram](https://t.me/InFameBoy)

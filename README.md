@@ -1,6 +1,6 @@
 ## Yo :vulcan_salute: my name is Anton :man_technologist:
 
-### :alien: I am an android developer passionate in creating custom views :cupid: and drawing on :paintbrush: canvas :pencil2:
+### :alien: I am an android developer like to create custom views :cupid: and draw on :paintbrush: canvas :pencil2:
 
 ## My technology stack:
 

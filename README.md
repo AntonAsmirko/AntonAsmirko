@@ -5,12 +5,21 @@
 #### Technology stack:
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="35" height="35"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35" height="35"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="35" height="35"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a> </p>
 
-#### Also I am:
-- :round_pushpin: currently working on [Nearby Project](https://github.com/PrincePepper/MestoRidom) for indoor navigation
-- :man_student: studying at [National Research ITMO University](https://en.itmo.ru/en/)
-- :city_sunset: living in Saint Petersburg / Vladivostok
-- :books: currently learning kotlin and internals of android framework
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antonasmirko&show_icons=true&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<table cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <ul>
+          <li>:round_pushpin: currently working on <a href="https://github.com/PrincePepper/MestoRidom">Nearby Project</a> for indoor navigation</li>
+          <li>:man_student: studying at <a href="https://en.itmo.ru/en/">National Research ITMO University</a></li>
+          <li>:city_sunset: living in Saint Petersburg / Vladivostok</li>
+          <li>:books: currently learning kotlin and internals of android framework</li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonasmirko&show_icons=true&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats" width="430" height="230">
+      </td>
+    </tr>
+  </table>
+</div>
 
 #### Contact me:&nbsp;<a href="https://t.me/InFameBoy" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="20" height="20"/> </a>

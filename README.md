@@ -16,7 +16,7 @@
         </ul>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonasmirko&show_icons=true&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats" width="430" height="230">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonasmirko&show_icons=true&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats" width="280" height="280">
       </td>
     </tr>
   </table>

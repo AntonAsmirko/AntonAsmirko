@@ -11,7 +11,7 @@
           <li>:man_student: studying at <a href="https://en.itmo.ru/en/">National Research ITMO University</a></li>
           <li>:city_sunset: living in Saint Petersburg / Vladivostok</li>
           <li>:books: currently learning kotlin and internals of android framework</li>
-          <li>:orange_heart: Kotlin & Go :blue_heart:</li>
+          <li>:orange_heart: Jetpack Compose</li>
         </ul>
       </td>
       <td>

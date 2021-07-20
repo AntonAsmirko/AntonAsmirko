@@ -20,4 +20,4 @@
   </table>
 </div>
 
-#### Contact me:&nbsp;<a href="https://t.me/AntonAsmirko" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="20" height="20"/> </a>
+#### Contact me:&nbsp;<a href="https://t.me/AntonAsmirko" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="20" height="20"/> </a> <a href="https://www.linkedin.com/in/asmirko/" target="_blank"> <img src="https://github.com/AntonAsmirko/AntonAsmirko/blob/main/linkedin.png" alt="telegram" width="20" height="20"/> </a>
